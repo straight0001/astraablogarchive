@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Bài viết đầu tiên",
+    "excerpt": "Mô tả ngắn",
+    "category": "web",
+    "tags": ["html", "css"],
+    "date": "2024-02-15",
+    "emoji": "🎯",
+    "thumbnail": "",
+    "rating": 4.5,
+    "views": 1000,
+    "author": "devDA",
+    "authorEmoji": "👨‍💻",
+    "content": "<h3>Tiêu đề</h3><p>Nội dung bài viết...</p>"
+  }
+]
